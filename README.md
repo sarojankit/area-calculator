@@ -13,4 +13,4 @@ You can select an option (1–5) to calculate an area or exit.
 
 ## Run the Program  
 ```bash
-python 7.py
+python area_calculator.py
